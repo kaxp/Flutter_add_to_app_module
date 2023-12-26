@@ -1,0 +1,253 @@
+com.example.add_to_app_flutter.R
+com.example.add_to_app_flutter.R$color
+com.example.add_to_app_flutter.R$dimen
+com.example.add_to_app_flutter.R$id
+io.flutter.plugins.GeneratedPluginRegistrant
+com.example.add_to_app_flutter.R$attr
+com.example.add_to_app_flutter.R$style
+com.example.add_to_app_flutter.R$styleable
+com.example.add_to_app_flutter.R$integer
+com.example.add_to_app_flutter.R$string
+com.example.add_to_app_flutter.R$layout
+com.example.add_to_app_flutter.R$drawable
+com.example.add_to_app_flutter.R$styleable: int FontFamilyFont_android_fontVariationSettings
+com.example.add_to_app_flutter.R$dimen: int compat_notification_large_icon_max_width
+com.example.add_to_app_flutter.R$id: int tag_accessibility_actions
+com.example.add_to_app_flutter.R$dimen: int compat_button_inset_vertical_material
+com.example.add_to_app_flutter.R$styleable: int FontFamilyFont_font
+com.example.add_to_app_flutter.R$styleable: int ColorStateListItem_android_color
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_5
+com.example.add_to_app_flutter.R$attr: int alpha
+com.example.add_to_app_flutter.R$styleable: int FontFamilyFont_fontWeight
+com.example.add_to_app_flutter.R$dimen: int notification_action_text_size
+com.example.add_to_app_flutter.R$style: int TextAppearance_Compat_Notification_Line2
+com.example.add_to_app_flutter.R$styleable: int ActivityFilter_activityAction
+com.example.add_to_app_flutter.R$attr: int splitRatio
+com.example.add_to_app_flutter.R$styleable: int ActivityFilter_activityName
+com.example.add_to_app_flutter.R$id: int icon_group
+com.example.add_to_app_flutter.R$attr: int fontProviderQuery
+com.example.add_to_app_flutter.R$styleable: int[] Capability
+com.example.add_to_app_flutter.R$styleable: int FontFamilyFont_fontVariationSettings
+com.example.add_to_app_flutter.R$attr: int fontProviderAuthority
+com.example.add_to_app_flutter.R$attr: int alwaysExpand
+com.example.add_to_app_flutter.R$color: int androidx_core_secondary_text_default_material_light
+com.example.add_to_app_flutter.R$styleable: int FontFamily_fontProviderAuthority
+com.example.add_to_app_flutter.R$id: int info
+com.example.add_to_app_flutter.R$attr: int fontStyle
+com.example.add_to_app_flutter.R$drawable: int notification_icon_background
+com.example.add_to_app_flutter.R$dimen: int notification_large_icon_height
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_28
+com.example.add_to_app_flutter.R$dimen: int compat_notification_large_icon_max_height
+com.example.add_to_app_flutter.R$drawable: int notification_bg_low_normal
+com.example.add_to_app_flutter.R$attr: int activityAction
+com.example.add_to_app_flutter.R$styleable: int ColorStateListItem_alpha
+com.example.add_to_app_flutter.R$id: int androidx_window_activity_scope
+com.example.add_to_app_flutter.R$attr: int fontProviderFetchStrategy
+com.example.add_to_app_flutter.R$styleable: int SplitPairRule_splitMinSmallestWidth
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_25
+com.example.add_to_app_flutter.R$layout: int notification_action
+com.example.add_to_app_flutter.R$drawable: int notification_bg_low
+com.example.add_to_app_flutter.R$id: int tag_on_receive_content_listener
+com.example.add_to_app_flutter.R$id: int forever
+com.example.add_to_app_flutter.R$styleable: int SplitPairRule_finishSecondaryWithPrimary
+com.example.add_to_app_flutter.R$styleable: int FontFamilyFont_ttcIndex
+com.example.add_to_app_flutter.R$styleable: int SplitPairFilter_secondaryActivityName
+com.example.add_to_app_flutter.R$attr: int fontProviderSystemFontFamily
+com.example.add_to_app_flutter.R$styleable: int SplitPairRule_clearTop
+com.example.add_to_app_flutter.R$layout: int notification_template_part_time
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_startX
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_centerColor
+com.example.add_to_app_flutter.R$id: int notification_main_column
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_13
+com.example.add_to_app_flutter.R$styleable: int GradientColorItem_android_color
+com.example.add_to_app_flutter.R$id: int tag_accessibility_clickable_spans
+com.example.add_to_app_flutter.R$drawable: int notification_bg
+com.example.add_to_app_flutter.R$color: int notification_icon_bg_color
+com.example.add_to_app_flutter.R$styleable: int GradientColorItem_android_offset
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_19
+com.example.add_to_app_flutter.R$id: int tag_state_description
+com.example.add_to_app_flutter.R$id: int dialog_button
+com.example.add_to_app_flutter.R$id: int tag_accessibility_pane_title
+com.example.add_to_app_flutter.R$styleable: int FontFamily_fontProviderPackage
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_6
+com.example.add_to_app_flutter.R$styleable: int SplitPairRule_splitMinWidth
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_0
+com.example.add_to_app_flutter.R$styleable: int FontFamilyFont_android_ttcIndex
+com.example.add_to_app_flutter.R$styleable: int[] ActivityRule
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_20
+com.example.add_to_app_flutter.R$attr: int fontProviderPackage
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_18
+com.example.add_to_app_flutter.R$styleable: int FontFamily_fontProviderFetchStrategy
+com.example.add_to_app_flutter.R$attr: int clearTop
+com.example.add_to_app_flutter.R$drawable: int notification_template_icon_bg
+com.example.add_to_app_flutter.R$id: int tag_on_receive_content_mime_types
+com.example.add_to_app_flutter.R$id: int tag_accessibility_heading
+com.example.add_to_app_flutter.R$id: int tag_window_insets_animation_callback
+com.example.add_to_app_flutter.R$id: int tag_on_apply_window_listener
+com.example.add_to_app_flutter.R$id: int text
+com.example.add_to_app_flutter.R$attr: int finishSecondaryWithPrimary
+com.example.add_to_app_flutter.R$style: int Widget_Compat_NotificationActionText
+com.example.add_to_app_flutter.R$styleable: int[] ActivityFilter
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+com.example.add_to_app_flutter.R$id: int action_divider
+com.example.add_to_app_flutter.R$string: int status_bar_notification_info_overflow
+com.example.add_to_app_flutter.R$attr: int ttcIndex
+com.example.add_to_app_flutter.R$styleable: int SplitPairRule_splitLayoutDirection
+com.example.add_to_app_flutter.R$styleable: int SplitPlaceholderRule_splitLayoutDirection
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_12
+com.example.add_to_app_flutter.R$id: int title
+com.example.add_to_app_flutter.R$styleable: int[] ColorStateListItem
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_15
+com.example.add_to_app_flutter.R$attr: int fontProviderCerts
+com.example.add_to_app_flutter.R$attr: int fontVariationSettings
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_9
+com.example.add_to_app_flutter.R$dimen: int notification_main_column_padding_top
+com.example.add_to_app_flutter.R$id: int tag_transition_group
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_endX
+com.example.add_to_app_flutter.R$attr: int queryPatterns
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_centerX
+com.example.add_to_app_flutter.R$styleable: int Capability_shortcutMatchRequired
+com.example.add_to_app_flutter.R$style: int TextAppearance_Compat_Notification
+com.example.add_to_app_flutter.R$styleable: int SplitPlaceholderRule_splitMinSmallestWidth
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_22
+com.example.add_to_app_flutter.R$styleable: int[] FontFamilyFont
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_endY
+com.example.add_to_app_flutter.R$id: int notification_background
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_4
+com.example.add_to_app_flutter.R$dimen: int compat_button_padding_horizontal_material
+com.example.add_to_app_flutter.R$styleable: int FontFamilyFont_android_fontStyle
+com.example.add_to_app_flutter.R$attr: int fontWeight
+com.example.add_to_app_flutter.R$styleable: int[] FontFamily
+com.example.add_to_app_flutter.R$drawable: int notification_bg_normal_pressed
+com.example.add_to_app_flutter.R$styleable: int ActivityRule_alwaysExpand
+com.example.add_to_app_flutter.R$styleable: int SplitPlaceholderRule_splitMinWidth
+com.example.add_to_app_flutter.R$styleable: int FontFamilyFont_fontStyle
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_8
+com.example.add_to_app_flutter.R$color: int notification_action_color_filter
+com.example.add_to_app_flutter.R$dimen: int notification_right_icon_size
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_endColor
+com.example.add_to_app_flutter.R$styleable: int[] SplitPairFilter
+com.example.add_to_app_flutter.R$style: int TextAppearance_Compat_Notification_Title
+com.example.add_to_app_flutter.R$styleable: int[] SplitPairRule
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_31
+com.example.add_to_app_flutter.R$styleable: int FontFamilyFont_android_font
+com.example.add_to_app_flutter.R$style: int TextAppearance_Compat_Notification_Info
+com.example.add_to_app_flutter.R$integer: int status_bar_notification_info_maxnum
+com.example.add_to_app_flutter.R$id: int ltr
+com.example.add_to_app_flutter.R$id: int icon
+com.example.add_to_app_flutter.R$id: int action_image
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_1
+com.example.add_to_app_flutter.R$style: int Widget_Compat_NotificationActionContainer
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_11
+com.example.add_to_app_flutter.R$attr: int placeholderActivityName
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_7
+com.example.add_to_app_flutter.R$layout: int notification_template_part_chronometer
+com.example.add_to_app_flutter.R$styleable: int SplitPairRule_finishPrimaryWithSecondary
+com.example.add_to_app_flutter.R$id: int tag_unhandled_key_event_manager
+com.example.add_to_app_flutter.R$dimen: int compat_button_padding_vertical_material
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_29
+com.example.add_to_app_flutter.R$styleable: int SplitPlaceholderRule_placeholderActivityName
+com.example.add_to_app_flutter.R$id: int tag_screen_reader_focusable
+com.example.add_to_app_flutter.R$attr: int splitMinSmallestWidth
+com.example.add_to_app_flutter.R$id: int text2
+com.example.add_to_app_flutter.R$drawable: int notify_panel_notification_icon_bg
+com.example.add_to_app_flutter.R$id: int action_container
+com.example.add_to_app_flutter.R$styleable: int SplitPairFilter_secondaryActivityAction
+com.example.add_to_app_flutter.R$dimen: int notification_big_circle_margin
+com.example.add_to_app_flutter.R$styleable: int FontFamily_fontProviderCerts
+com.example.add_to_app_flutter.R$dimen: int notification_top_pad
+com.example.add_to_app_flutter.R$id: int async
+com.example.add_to_app_flutter.R$layout: int custom_dialog
+com.example.add_to_app_flutter.R$attr: int shortcutMatchRequired
+com.example.add_to_app_flutter.R$style: int TextAppearance_Compat_Notification_Time
+com.example.add_to_app_flutter.R$layout: int notification_template_icon_group
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_type
+com.example.add_to_app_flutter.R$styleable: int Capability_queryPatterns
+com.example.add_to_app_flutter.R$styleable: int FontFamily_fontProviderSystemFontFamily
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_2
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_16
+com.example.add_to_app_flutter.R$dimen: int notification_top_pad_large_text
+com.example.add_to_app_flutter.R$attr: int secondaryActivityAction
+com.example.add_to_app_flutter.R$id: int rtl
+com.example.add_to_app_flutter.R$id: int italic
+com.example.add_to_app_flutter.R$drawable: int notification_bg_normal
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_17
+com.example.add_to_app_flutter.R$id: int notification_main_column_container
+com.example.add_to_app_flutter.R$drawable: int notification_action_background
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_14
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_21
+com.example.add_to_app_flutter.R$id: int locale
+com.example.add_to_app_flutter.R$color: int secondary_text_default_material_light
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_gradientRadius
+com.example.add_to_app_flutter.R$drawable: int notification_tile_bg
+com.example.add_to_app_flutter.R$id: int normal
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_24
+com.example.add_to_app_flutter.R$dimen: int compat_control_corner_material
+com.example.add_to_app_flutter.R$styleable: int FontFamilyFont_android_fontWeight
+com.example.add_to_app_flutter.R$dimen: int notification_small_icon_size_as_large
+com.example.add_to_app_flutter.R$id: int line3
+com.example.add_to_app_flutter.R$id: int right_side
+com.example.add_to_app_flutter.R$dimen: int notification_large_icon_width
+com.example.add_to_app_flutter.R$attr: int secondaryActivityName
+com.example.add_to_app_flutter.R$styleable: int FontFamily_fontProviderFetchTimeout
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_startColor
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_tileMode
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_3
+com.example.add_to_app_flutter.R$dimen: int notification_subtext_size
+com.example.add_to_app_flutter.R$id: int blocking
+com.example.add_to_app_flutter.R$color: int androidx_core_ripple_material_light
+com.example.add_to_app_flutter.R$styleable: int FontFamily_fontProviderQuery
+com.example.add_to_app_flutter.R$id: int accessibility_action_clickable_span
+com.example.add_to_app_flutter.R$id: int actions
+com.example.add_to_app_flutter.R$attr: int splitMinWidth
+com.example.add_to_app_flutter.R$attr: int primaryActivityName
+com.example.add_to_app_flutter.R$id: int time
+com.example.add_to_app_flutter.R$id: int line1
+com.example.add_to_app_flutter.R$attr: int splitLayoutDirection
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_26
+com.example.add_to_app_flutter.R$dimen: int notification_right_side_padding_top
+com.example.add_to_app_flutter.R$dimen: int notification_media_narrow_margin
+com.example.add_to_app_flutter.R$id: int chronometer
+com.example.add_to_app_flutter.R$styleable: int ColorStateListItem_android_alpha
+com.example.add_to_app_flutter.R$dimen: int notification_content_margin_start
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_centerY
+com.example.add_to_app_flutter.R$layout: int notification_action_tombstone
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_27
+com.example.add_to_app_flutter.R$styleable: int[] GradientColor
+com.example.add_to_app_flutter.R$id: int action_text
+com.example.add_to_app_flutter.R$id: int tag_unhandled_key_listeners
+com.example.add_to_app_flutter.R$styleable: int SplitPairFilter_primaryActivityName
+com.example.add_to_app_flutter.R$attr: int nestedScrollViewStyle
+com.example.add_to_app_flutter.R$attr: int font
+com.example.add_to_app_flutter.R$styleable: int[] GradientColorItem
+com.example.add_to_app_flutter.R$styleable: int[] SplitPlaceholderRule
+com.example.add_to_app_flutter.R$color: int ripple_material_light
+com.example.add_to_app_flutter.R$attr: int fontProviderFetchTimeout
+com.example.add_to_app_flutter.R$styleable: int SplitPlaceholderRule_splitRatio
+com.example.add_to_app_flutter.R$layout: int notification_template_custom_big
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_10
+com.example.add_to_app_flutter.R$drawable: int notification_bg_low_pressed
+com.example.add_to_app_flutter.R$attr: int finishPrimaryWithSecondary
+com.example.add_to_app_flutter.R$dimen: int compat_button_inset_horizontal_material
+com.example.add_to_app_flutter.R$drawable: int notification_template_icon_low_bg
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_23
+com.example.add_to_app_flutter.R$styleable: int SplitPairRule_splitRatio
+com.example.add_to_app_flutter.R$id: int right_icon
+com.example.add_to_app_flutter.R$id: int accessibility_custom_action_30
+com.example.add_to_app_flutter.R$attr: int activityName
+com.example.add_to_app_flutter.R$dimen: int notification_small_icon_background_padding
+com.example.add_to_app_flutter.R$dimen: int notification_action_icon_size
+com.example.add_to_app_flutter.R$styleable: int GradientColor_android_startY
+com.example.add_to_app_flutter.R$string: R$string()
+com.example.add_to_app_flutter.R$id: R$id()
+com.example.add_to_app_flutter.R$integer: R$integer()
+com.example.add_to_app_flutter.R$style: R$style()
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+com.example.add_to_app_flutter.R$color: R$color()
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+com.example.add_to_app_flutter.R$drawable: R$drawable()
+com.example.add_to_app_flutter.R: R()
+com.example.add_to_app_flutter.R$attr: R$attr()
+com.example.add_to_app_flutter.R$layout: R$layout()
+com.example.add_to_app_flutter.R$styleable: R$styleable()
+com.example.add_to_app_flutter.R$dimen: R$dimen()
