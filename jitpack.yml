@@ -4,5 +4,5 @@ jdk:
 before_install:
   - ./scripts/prepareJitpackEnvironment.sh
 install:
-  - FILE="-Dfile=flutter_sdk.zip"
-  - mvn install:install-file $FILE -DgroupId=com.github.kaxp -DartifactId=flutter_sdk_add_to_app -Dversion=9.0 -Dpackaging=zip -DgeneratePom=true
+  - FILE="-Dfile=repo/com/github/kaxp/flutter_sdk_add_to_app/9.0/flutter_sdk_add_to_app-10.0.aar"
+  - mvn install:install-file $FILE -DgroupId=com.github.kaxp -DartifactId=flutter_sdk_add_to_app -Dversion=10.0 -Dpackaging=aar -DgeneratePom=true
