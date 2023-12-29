@@ -3,7 +3,7 @@
   "component": {
     "group": "com.github.kaxp",
     "module": "flutter_sdk_add_to_app",
-    "version": "10.0",
+    "version": "11.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -54,8 +54,8 @@
       ],
       "files": [
         {
-          "name": "flutter_sdk_add_to_app-10.0.aar",
-          "url": "flutter_sdk_add_to_app-10.0.aar",
+          "name": "flutter_sdk_add_to_app-11.0.aar",
+          "url": "flutter_sdk_add_to_app-11.0.aar",
           "size": 5133856,
           "sha512": "dc5b85bcf4e1ac8ca89dc47a9e7189f625aab485e35fc561f2f242924be74832936887d768c51ba7d339d4dea90cb47bba14ec3ca16283053847ae65ff56d966",
           "sha256": "fea8ff02fc1bbf85a525b08bf7b11f060524a0c7e37b212e50be977f7ffd0c26",
@@ -104,8 +104,8 @@
       ],
       "files": [
         {
-          "name": "flutter_sdk_add_to_app-10.0.aar",
-          "url": "flutter_sdk_add_to_app-10.0.aar",
+          "name": "flutter_sdk_add_to_app-11.0.aar",
+          "url": "flutter_sdk_add_to_app-11.0.aar",
           "size": 5133856,
           "sha512": "dc5b85bcf4e1ac8ca89dc47a9e7189f625aab485e35fc561f2f242924be74832936887d768c51ba7d339d4dea90cb47bba14ec3ca16283053847ae65ff56d966",
           "sha256": "fea8ff02fc1bbf85a525b08bf7b11f060524a0c7e37b212e50be977f7ffd0c26",
