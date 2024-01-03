@@ -100,7 +100,15 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
-            Lottie.network('https://raw.githubusercontent.com/xvrh/lottie-flutter/master/example/assets/Mobilo/A.json'),
+            Text(
+              'Hello',
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
+            Lottie.asset(
+              'assets/thinking_man.json',
+              height: 200,
+              fit: BoxFit.fitWidth,
+            ),
           ],
         ),
       ),
