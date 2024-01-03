@@ -3,7 +3,7 @@
   "component": {
     "group": "com.github.kaxp",
     "module": "flutter_sdk_add_to_app",
-    "version": "11.0",
+    "version": "12.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -54,13 +54,13 @@
       ],
       "files": [
         {
-          "name": "flutter_sdk_add_to_app-11.0.aar",
-          "url": "flutter_sdk_add_to_app-11.0.aar",
-          "size": 5133856,
-          "sha512": "dc5b85bcf4e1ac8ca89dc47a9e7189f625aab485e35fc561f2f242924be74832936887d768c51ba7d339d4dea90cb47bba14ec3ca16283053847ae65ff56d966",
-          "sha256": "fea8ff02fc1bbf85a525b08bf7b11f060524a0c7e37b212e50be977f7ffd0c26",
-          "sha1": "8ced2ccde2aea74970d784482d9d6b96499ed6b6",
-          "md5": "50dabe2709a601cf4bf0bf0f33143047"
+          "name": "flutter_sdk_add_to_app-12.0.aar",
+          "url": "flutter_sdk_add_to_app-12.0.aar",
+          "size": 4803415,
+          "sha512": "4313222d5b3b5ef612f2101ccbcfa0c464b34d1bc793e536784ac64980ac04772b3d5d950c3bd7ed198abb320c811c353d56ac05e58c4e7a2c74550d43a6f498",
+          "sha256": "f9f85e05737f5c68bb4be92079c4b51458b555797e729d7526baaf494a322d35",
+          "sha1": "e4179d1719f26143268f2d6856e68f5ad6d78a7c",
+          "md5": "1261bc08908f2cf27f1e8e4ed1ca6d40"
         }
       ]
     },
@@ -104,13 +104,13 @@
       ],
       "files": [
         {
-          "name": "flutter_sdk_add_to_app-11.0.aar",
-          "url": "flutter_sdk_add_to_app-11.0.aar",
-          "size": 5133856,
-          "sha512": "dc5b85bcf4e1ac8ca89dc47a9e7189f625aab485e35fc561f2f242924be74832936887d768c51ba7d339d4dea90cb47bba14ec3ca16283053847ae65ff56d966",
-          "sha256": "fea8ff02fc1bbf85a525b08bf7b11f060524a0c7e37b212e50be977f7ffd0c26",
-          "sha1": "8ced2ccde2aea74970d784482d9d6b96499ed6b6",
-          "md5": "50dabe2709a601cf4bf0bf0f33143047"
+          "name": "flutter_sdk_add_to_app-12.0.aar",
+          "url": "flutter_sdk_add_to_app-12.0.aar",
+          "size": 4803415,
+          "sha512": "4313222d5b3b5ef612f2101ccbcfa0c464b34d1bc793e536784ac64980ac04772b3d5d950c3bd7ed198abb320c811c353d56ac05e58c4e7a2c74550d43a6f498",
+          "sha256": "f9f85e05737f5c68bb4be92079c4b51458b555797e729d7526baaf494a322d35",
+          "sha1": "e4179d1719f26143268f2d6856e68f5ad6d78a7c",
+          "md5": "1261bc08908f2cf27f1e8e4ed1ca6d40"
         }
       ]
     }
