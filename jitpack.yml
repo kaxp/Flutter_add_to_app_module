@@ -4,7 +4,5 @@ jdk:
 before_install:
   - ./scripts/prepareJitpackEnvironment.sh
 install:
-  - cd build/host/outputs/repo/
-  - jar -cvf files.jar *
-  - FILE="-Dfile=files.jar"
-  - mvn install:install-file $FILE -DgroupId=com.github.kaxp -DartifactId=flutter_sdk_add_to_app -Dversion=12.0 -Dpackaging=jar -DgeneratePom=true
+  - FILE="-Dfile=build/host/outputs/repo/com/github/kaxp/flutter_sdk_add_to_app/14.0/flutter_sdk_add_to_app-14.0.aar"
+  - mvn install:install-file $FILE -DgroupId=com.github.kaxp -DartifactId=flutter_sdk_add_to_app -Dversion=12.0 -Dpackaging=aar -DgeneratePom=true

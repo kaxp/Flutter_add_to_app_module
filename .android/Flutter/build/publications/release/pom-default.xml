@@ -7,10 +7,11 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.example.add_to_app_flutter</groupId>
-  <artifactId>flutter_release</artifactId>
-  <version>13.0</version>
+  <groupId>com.github.kaxp</groupId>
+  <artifactId>flutter_sdk_add_to_app</artifactId>
+  <version>14.0</version>
   <packaging>aar</packaging>
+  <description>Struggling with flutter add to app</description>
   <dependencies>
     <dependency>
       <groupId>io.flutter</groupId>

@@ -1,9 +1,9 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.example.add_to_app_flutter",
-    "module": "flutter_release",
-    "version": "13.0",
+    "group": "com.github.kaxp",
+    "module": "flutter_sdk_add_to_app",
+    "version": "14.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -54,8 +54,8 @@
       ],
       "files": [
         {
-          "name": "flutter_release-13.0.aar",
-          "url": "flutter_release-13.0.aar",
+          "name": "flutter_sdk_add_to_app-14.0.aar",
+          "url": "flutter_sdk_add_to_app-14.0.aar",
           "size": 4803415,
           "sha512": "4313222d5b3b5ef612f2101ccbcfa0c464b34d1bc793e536784ac64980ac04772b3d5d950c3bd7ed198abb320c811c353d56ac05e58c4e7a2c74550d43a6f498",
           "sha256": "f9f85e05737f5c68bb4be92079c4b51458b555797e729d7526baaf494a322d35",
@@ -104,8 +104,8 @@
       ],
       "files": [
         {
-          "name": "flutter_release-13.0.aar",
-          "url": "flutter_release-13.0.aar",
+          "name": "flutter_sdk_add_to_app-14.0.aar",
+          "url": "flutter_sdk_add_to_app-14.0.aar",
           "size": 4803415,
           "sha512": "4313222d5b3b5ef612f2101ccbcfa0c464b34d1bc793e536784ac64980ac04772b3d5d950c3bd7ed198abb320c811c353d56ac05e58c4e7a2c74550d43a6f498",
           "sha256": "f9f85e05737f5c68bb4be92079c4b51458b555797e729d7526baaf494a322d35",
