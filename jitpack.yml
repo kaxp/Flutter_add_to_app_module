@@ -3,6 +3,6 @@ jdk:
   - openjdk17
 before_install:
   - ./scripts/prepareJitpackEnvironment.sh
-install:
-  - FILE="-Dfile=com.zip"
-  - mvn install:install-file $FILE -DgroupId=com.github.kaxp -DartifactId=flutter_sdk_add_to_app -Dversion=16.0 -Dpackaging=zip -DgeneratePom=true
+# install:
+#   - FILE="-Dfile=com.zip"
+#   - mvn install:install-file $FILE -DgroupId=com.github.kaxp -DartifactId=flutter_sdk_add_to_app -Dversion=16.0 -Dpackaging=zip -DgeneratePom=true
